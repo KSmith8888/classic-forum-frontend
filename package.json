@@ -1,0 +1,22 @@
+{
+    "name": "classic-forum-frontend",
+    "version": "1.0.0",
+    "description": "The frontend of a classic forum made with Vue",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "author": "Kevyn Smith",
+    "license": "MIT",
+    "dependencies": {
+        "vue": "^3.4.21"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.0.4",
+        "vite": "^5.1.5"
+    }
+}
